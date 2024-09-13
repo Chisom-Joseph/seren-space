@@ -42,7 +42,7 @@ Here is a comprehensive list of the technologies used to make this project
 
 ## How to run the program
 
-Here is a step by step guid on how to setup this project
+Here is a step by step guide on how to setup this project
 
 ### Prerequisites
 
